@@ -1,0 +1,19 @@
+body {
+    background: black
+       
+}
+
+h1{
+
+    color: white;
+}
+
+
+
+.gif {
+    border: 3px solid rgb(255, 255, 255);   /* Border */
+    border-radius: 70%;        /* circle outline*/
+    width: 350px;             
+    height: 350px;             
+    object-fit: cover;         
+}

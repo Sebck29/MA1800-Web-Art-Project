@@ -1,0 +1,27 @@
+/* Green background */
+body {
+    background-color: green;
+}
+
+/* Make all GIFs red-tinted */
+.gif.red {
+    filter: hue-rotate(330deg) saturate(300%);
+}
+
+
+.one {
+
+a.one:hover {color:rgb(255, 255, 255);}
+a.one:hover {color:rgb(255, 255, 255);}
+a.one:hover {font-size: 120%;}
+a.one:hover {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+
+}
+
+/* Target all images with class 'gif' */
+.gif {
+    border: 3px solid black;  /* solid black border around the GIF */
+    border-radius: 0;         /* optional: keep corners square */
+}
+
