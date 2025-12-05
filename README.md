@@ -4,6 +4,8 @@
 https://sebck29.github.io/MA1800-Web-Art-Project/
 
 [Open Index Page](index.html)
+
+
 [Open Page1](Page1.html)
 
 
