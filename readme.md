@@ -5,7 +5,11 @@ related to my little rant. The project functions as a piece that hopefull educat
 
 If I had the opportunity to extend this project, I'd spend more time honing my ability to make higher quality GIF animations, and perhaps work on my ability to decorate with style.css, as I only used very simple techniques such as borders, padding and background colours. In addition to this, I would expand the number of images or html pages that my project could explore like with 'My Boyfriend came back from the war'.  I could also source more inspiration from 'Mendi Obadike (2001), Keeping Up Appearances' by making my textual 'censors' more purposeful and meaningful with time, perhaps scattered less randomly.
 
+<a>
+  href="Page1.html"
+<p> LINK </p> 
 
+</a>
 
 Resources:
 
@@ -94,4 +98,5 @@ Page3.HTML
 "https://www.msn.com/en-us/news/politics/donald-trump-calls-the-word-affordability-a-democrat-scam-after-labeling-himself-the-affordability-president/ar-AA1RG0rp?ocid=BingNewsSerp"
 
 Olia Lialina (1996), My Boyfriend Came Back from the War 
+
 Douglas Davis (1994), The World’s First Collaborative Sentence
